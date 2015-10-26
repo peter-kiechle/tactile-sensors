@@ -16,12 +16,12 @@ It simplifies the capturing and recording of pressure profiles and offers real-t
 This project is not based on ROS. However, it offers several easily portable modules. <br />
 Most notably:
 <ul>
-<li> Forward kinematics of all taxels (following the Denavit-Hartenberg convention)</li>
-<li> Translational and rotational Slip-Detection (based on convolution and the principal axis method)</li>
-<li> Spatial,temporal and spatio-temporal filtering of the sensor signal </li>
-<li> High-sensitivity mode for the SDH-2 (temperature calibrated trade-off between noise and sensitivity) </li>
-<li> 2D Features: Translation and rotation invariant discrete Chebyshev moments </li>
-<li> 3D Features: Object diameter and compressibility </li>
+<li> <strong>Forward Kinematics</strong> of all taxels (following the Denavit-Hartenberg convention)</li>
+<li> Translational and rotational <strong>Slip-Detection</strong> (based on convolution and the principal axis method)</li>
+<li> Spatial,temporal and spatio-temporal <strong>filtering</strong> of the sensor signal </li>
+<li> <strong>High-sensitivity mode</strong> for the SDH-2 (temperature calibrated trade-off between noise and sensitivity) </li>
+<li> 2D Features: Translation and rotation invariant <strong>discrete Chebyshev moments</strong> </li>
+<li> 3D Features: <strong>Object diameter</strong> and <strong>compressibility</strong> (minimal bounding sphere of active taxels)</li>
 </ul>
 See master thesis for details.
 
