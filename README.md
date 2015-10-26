@@ -1,4 +1,4 @@
-# tactile-sensors
+# DSA-Konqueror and libframemanager
 Tactile sensor frame manager for the SCHUNK Dextrous Hand 2.0 (SDH 2.0)
 
 # What is this?
