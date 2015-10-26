@@ -12,37 +12,43 @@ the SDH-2 while the other captures the tactile sensor frames from the DSA contro
 DSA Konqueror, not to be confused with DSA Explorer by Weiss Robotics, is a graphical user interface or GUI
 to control the SDH-2, i.e. perform grasps and display the tactile sensor readings.
 It simplifies the capturing and recording of pressure profiles and offers real-time visualization as well as offline processing. In addition, there are Python bindings to the most frequently used functionalities.
+
+This project is not based on ROS. However, it offers several easily portable modules. <br />
+Most notably:
+<ul>
+<li> Forward kinematics of all taxels (following the Denavit-Hartenberg convention)</li>
+<li> Translational and rotational Slip-Detection (based on convolution and the principal axis method)</li>
+<li> Spatial,temporal and spatio-temporal filtering of the sensor signal </li>
+<li> High-sensitivity mode for the SDH-2 (temperature calibrated trade-off between noise and sensitivity) </li>
+<li> 2D Features: Translation and rotation invariant discrete Chebyshev moments </li>
+<li> 3D Features: Object diameter and compressibility </li>
+</ul>
 See master thesis for details.
 
 
 # Compile with:
-
-cd build
-
-cmake ..
-
-make VERBOSE=1
+cd build <br />
+cmake .. <br />
+make VERBOSE=1 <br />
 
 
+#Dependencies: see "dependencies" folder
 
+  <strong>C++:</strong><br />
+    SDH Library (patched version, see dependencies/dsa_patch) <br />
+    OpenCV <br />
+    Eigen 3 <br />
+    Boost <br />
+    Boost.NumPy (extension for Boost.Python that adds NumPy support, see dependencies/Boost.NumPy) <br />
+    Gtkmm 2.4 (GUI only) <br />
+    GtkGLExtmmb (OpenGL extension) <br />
 
-Dependencies: see "dependencies" folder
-
-  C++:
-    SDH Library (patched version, see dependencies/dsa_patch)
-    OpenCV
-    Eigen 3
-    Boost
-    Boost.NumPy (extension for Boost.Python that adds NumPy support, see dependencies/Boost.NumPy)
-    Gtkmm 2.4 (GUI only)
-    GtkGLExtmmb (OpenGL extension)
-
-  Python 2.7:
-    numpy
-    scipy
-    sklearn 
-    cairo
-    PIL
+  <strong>Python 2.7:</strong> <br />
+    numpy <br />
+    scipy <br />
+    sklearn <br />
+    cairo <br />
+    PIL <br />
 
 
 # License
