@@ -1,6 +1,10 @@
 # DSA-Konqueror and libframemanager
 Tactile sensor frame manager for the SCHUNK Dextrous Hand 2.0 (SDH 2.0)
 
+![DSA Konqueror](src/doc/html/DSAKonqueror.png?raw=true "DSA Konqueror GUI")
+
+Framework in action: https://www.youtube.com/channel/UCdTS8-T9_VR8UKo_lV9CZBA
+
 # What is this?
 This software package was created during the course of my master thesis "Evaluation of Tactile Sensors"
 at the Intelligent and Interactive Systems group of the Institute of Computer Science at the University of Innsbruck. 
@@ -22,6 +26,8 @@ Most notably:
 <li> <strong>High-sensitivity mode</strong> for the SDH-2 (temperature calibrated trade-off between noise and sensitivity) </li>
 <li> 2D Features: Translation and rotation invariant <strong>discrete Chebyshev moments</strong> </li>
 <li> 3D Features: <strong>Object diameter</strong> and <strong>compressibility</strong> (minimal bounding sphere of active taxels)</li>
+<li> <strong>Python bindings (NumPy) </strong> for convenient data analysis </li>
+<li> <strong> Grasp-object classification</strong> based on scikit-learn</li>
 </ul>
 See master thesis for details.
 
