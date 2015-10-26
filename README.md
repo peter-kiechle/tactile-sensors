@@ -6,8 +6,8 @@ Tactile sensor frame manager for the SCHUNK Dextrous Hand 2.0 (SDH 2.0)
 Framework in action: https://www.youtube.com/channel/UCdTS8-T9_VR8UKo_lV9CZBA
 
 # What is this?
-This software package was created during the course of my master thesis "Evaluation of Tactile Sensors"
-at the Intelligent and Interactive Systems group of the Institute of Computer Science at the University of Innsbruck. 
+This software package was created during the course of my ![master thesis "Evaluation of Tactile Sensors"](masterthesis.pdf "Evaluation of Tactile Sensors")
+at the ![Intelligent and Interactive Systems](https://iis.uibk.ac.at/ "IIS") group of the Institute of Computer Science at the University of Innsbruck. 
 My supervisor was Professor Justus Piater, Ph.D.
 
 Libframemanager consists of a frame manager and two separate frame grabbers. 
