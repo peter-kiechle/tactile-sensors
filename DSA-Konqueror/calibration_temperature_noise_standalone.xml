@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+   Temperature-noise calibration for right SDH2
+   Regression parameters were determined with noise-temperature_calibration.py
+   Values could be tweaked manually if wear and tear changes the sensor's behaviour
+-->
+<calibration>
+   <matrix id="0">
+      <slope>0.35</slope>
+      <intercept>35.00</intercept>
+      <RMSE>2.425417</RMSE>
+   </matrix>
+   <matrix id="1">
+      <slope>0.23</slope>
+      <intercept>48.00</intercept>
+      <RMSE>0.708428</RMSE>
+   </matrix>
+   <matrix id="2">
+      <slope>0.36</slope>
+      <intercept>43.00</intercept>
+      <RMSE>2.894096</RMSE>
+   </matrix>
+   <matrix id="3">
+      <slope>0.16</slope>
+      <intercept>40.17</intercept>
+      <RMSE>0.930476</RMSE>
+   </matrix>
+   <matrix id="4">
+      <slope>0.41</slope>
+      <intercept>30.62</intercept>
+      <RMSE>2.646151</RMSE>
+   </matrix>
+   <matrix id="5">
+      <slope>0.17</slope>
+      <intercept>45.30</intercept>
+      <RMSE>0.850922</RMSE>
+   </matrix>
+</calibration>

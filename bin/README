@@ -1,0 +1,13 @@
+# Example usages:
+
+# How to open a recorded pressure profile
+./exampleFrameManager teapot_handle.dsa
+
+
+# Simple feature extraction example
+./exampleFeatureExtraction teapot_handle.dsa --frameID 42
+
+
+# Compute Chebyshev moments and a reconstruction (PNG and pressure profile)
+./exampleChebyshevMoments img_square.png --pmax 3
+./exampleChebyshevMoments teapot_handle.dsa --frameID 42 --matrixID 1 --pmax 5

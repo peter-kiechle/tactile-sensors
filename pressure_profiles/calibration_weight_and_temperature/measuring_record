@@ -1,0 +1,27 @@
+Experiment set-up:
+
+	Sensitivity: 1.0
+	Threshold: 100	
+	15 seconds per imprint
+
+	Weights:
+	A 200 g
+	B 300 g
+	C 400 g
+	D 500 g
+	E 600 g
+	F 700 g
+	G 800 g
+	H 900 g
+
+	Square stamp 2: 1.1025 cm^2 = 0.00011025 m^2
+
+	Pressure:
+	A 17796 Pa
+	B 26694 Pa
+	C 35592 Pa
+	D 44490 Pa
+	E 53388 Pa
+	F 62286 Pa
+	G 71184 Pa
+	H 80082 Pa

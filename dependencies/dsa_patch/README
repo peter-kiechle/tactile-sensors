@@ -1,0 +1,22 @@
+Version of changed library:
+* SDHLibrary-2013-11-27
+
+Changed/added functions:
+void cDSA::QueryMatrixMask( eMatrixMaskType mask_type, MatrixMask& matrix_mask )
+void cDSA::QueryMatrixMasks( void )
+void cDSA::Open( void ) 
+bool cDSA::IsOpen( void )
+void cDSA::SetMatrixMaskCell( int m, int x, int y, bool value )
+void cDSA::SetMatrixMasks( void ) 
+void cDSA::SetMatrixMask( int m ) 
+bool cDSA::GetMatrixMaskCell( eMatrixMaskType mask_type, int m, int x, int y )
+std::string cDSA::GetMatrixMaskString( eMatrixMaskType mask_type, int m, bool pretty )
+
+Added data structures:
+enum eMatrixMaskType
+class MatrixMask
+std::map<int, MatrixMask> matrix_masks;
+
+
+Install:
+Copy (overwrite) dsa.cpp and dsa.h to "SDH-LIBRARY-PATH/cpp/sdh" and recompile SDHLibrary

@@ -1,0 +1,16 @@
+#Two possiblilities to convert *.png or *.dsa to vector graphics:
+
+# 1. Conversion of png to eps to pdf using imshow(), epstopdf and pdfcrop.
+# PNG -> EPS
+python png2eps.py img_rectangle_v_reconstructed.png
+
+# EPS -> PDF
+./eps2pdf.sh img_rectangle_v_reconstructed.eps
+
+# Color -> Greyscale
+./convert_black_and_white.sh img_rectangle_v_reconstructed.pdf
+
+
+
+# 2. Conversion to pdf using pcolormesh()
+# See plot_matrix.py

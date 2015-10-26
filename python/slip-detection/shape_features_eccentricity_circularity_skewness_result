@@ -1,0 +1,186 @@
+----------------------------------
+Features:  img_square.png 
+----------------------------------
+Centroid x                 2.5000
+Centroid y                 6.5000
+Standard deviation x       1.0775
+Standard deviation y       1.0775
+Skewness x                 0.0000  Mass is horizontally centered
+Skewness y                 0.0000  Mass is vertically centered
+Angle                      167.3994
+Major axis                 1.1610
+Minor axis                 1.1610
+Compactness (moments)      1.0966
+Compactness (contour)      0.7854
+Eccentricity               0.0000
+Eccentricity (squared)     0.0000
+
+----------------------------------
+Features:  img_square_or_disc.png 
+----------------------------------
+Centroid x                 2.5000
+Centroid y                 6.5000
+Standard deviation x       0.9941
+Standard deviation y       0.9941
+Skewness x                 0.0000  Mass is horizontally centered
+Skewness y                 0.0000  Mass is vertically centered
+Angle                      0.0000
+Major axis                 0.9881
+Minor axis                 0.9881
+Compactness (moments)      1.2885
+Compactness (contour)      0.7854
+Eccentricity               0.0000
+Eccentricity (squared)     0.0000
+
+----------------------------------
+Features:  img_rectangle.png 
+----------------------------------
+Centroid x                 2.5000
+Centroid y                 7.0309
+Standard deviation x       0.5000
+Standard deviation y       1.6222
+Skewness x                 0.0000  Mass is horizontally centered
+Skewness y                -0.3875  Mass is concentrated in the lower region
+Angle                      90.0000
+Major axis                 2.6316
+Minor axis                 0.2500
+Compactness (moments)      0.6628
+Compactness (contour)      0.4363
+Eccentricity               0.9513
+Eccentricity (squared)     0.9955
+
+----------------------------------
+Features:  img_doughnut.png 
+----------------------------------
+Centroid x                 2.5000
+Centroid y                 6.5000
+Standard deviation x       1.4240
+Standard deviation y       1.4240
+Skewness x                -0.0000  Mass is horizontally centered
+Skewness y                 0.0000  Mass is vertically centered
+Angle                      155.5930
+Major axis                 2.0278
+Minor axis                 2.0278
+Compactness (moments)      1.2558
+Compactness (contour)      0.9271
+Eccentricity               0.0000
+Eccentricity (squared)     0.0000
+
+----------------------------------
+Features:  img_disc_symmetric.png 
+----------------------------------
+Centroid x                 2.5000
+Centroid y                 6.5000
+Standard deviation x       1.2787
+Standard deviation y       1.2787
+Skewness x                 0.0000  Mass is horizontally centered
+Skewness y                 0.0000  Mass is vertically centered
+Angle                      0.0000
+Major axis                 1.6350
+Minor axis                 1.6350
+Compactness (moments)      1.5575
+Compactness (contour)      0.9271
+Eccentricity               0.0000
+Eccentricity (squared)     0.0000
+
+----------------------------------
+Features:  img_disc_asymmetric.png 
+----------------------------------
+Centroid x                 2.7291
+Centroid y                 6.7291
+Standard deviation x       1.3333
+Standard deviation y       1.3333
+Skewness x                -0.1334  Mass is concentrated on the right
+Skewness y                -0.1334  Mass is concentrated in the lower region
+Angle                      45.0000
+Major axis                 2.0456
+Minor axis                 1.5099
+Compactness (moments)      1.4324
+Compactness (contour)      0.9271
+Eccentricity               0.5117
+Eccentricity (squared)     0.6747
+
+----------------------------------
+Features:  img_test02.png 
+----------------------------------
+Centroid x                 2.5000
+Centroid y                 7.0000
+Standard deviation x       0.5000
+Standard deviation y       0.0000
+Skewness x                 0.0000  Mass is horizontally centered
+Skewness y                 0.0000  Mass is vertically centered
+Angle                      0.0000
+Major axis                 0.2500
+Minor axis                 0.0000
+Compactness (moments)      1.2732
+Compactness (contour)      0.0000
+Eccentricity               1.0000
+Eccentricity (squared)     1.0000
+
+----------------------------------
+Features:  img_test03.png 
+----------------------------------
+Centroid x                 3.0000
+Centroid y                 6.5000
+Standard deviation x       0.0000
+Standard deviation y       0.5000
+Skewness x                 0.0000  Mass is horizontally centered
+Skewness y                 0.0000  Mass is vertically centered
+Angle                      90.0000
+Major axis                 0.2500
+Minor axis                 0.0000
+Compactness (moments)      1.2732
+Compactness (contour)      0.0000
+Eccentricity               1.0000
+Eccentricity (squared)     1.0000
+
+----------------------------------
+Features:  img_test04.png 
+----------------------------------
+Centroid x                 2.5000
+Centroid y                 6.5000
+Standard deviation x       0.5000
+Standard deviation y       0.5000
+Skewness x                 0.0000  Mass is horizontally centered
+Skewness y                 0.0000  Mass is vertically centered
+Angle                      45.0000
+Major axis                 0.5000
+Minor axis                 0.0000
+Compactness (moments)      0.6366
+Compactness (contour)      0.0000
+Eccentricity               1.0000
+Eccentricity (squared)     1.0000
+
+----------------------------------
+Features:  img_test05.png 
+----------------------------------
+Centroid x                 2.5000
+Centroid y                 6.5000
+Standard deviation x       0.5000
+Standard deviation y       0.5000
+Skewness x                 0.0000  Mass is horizontally centered
+Skewness y                 0.0000  Mass is vertically centered
+Angle                      0.0000
+Major axis                 0.2500
+Minor axis                 0.2500
+Compactness (moments)      1.2732
+Compactness (contour)      0.7854
+Eccentricity               0.0000
+Eccentricity (squared)     0.0000
+
+----------------------------------
+Features:  img_test06.png 
+----------------------------------
+Centroid x                 3.0000
+Centroid y                 6.0000
+Standard deviation x       0.6325
+Standard deviation y       0.6325
+Skewness x                 0.0000  Mass is horizontally centered
+Skewness y                 0.0000  Mass is vertically centered
+Angle                      148.2825
+Major axis                 0.4000
+Minor axis                 0.4000
+Compactness (moments)      0.9947
+Compactness (contour)      0.7854
+Eccentricity               0.0000
+Eccentricity (squared)     0.0000

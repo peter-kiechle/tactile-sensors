@@ -1,0 +1,14 @@
+-------------------------------------------------------
+Simple python version of the pressure profile explorer
+-------------------------------------------------------
+
+The shell script exports the environment variable DSA_PROFILE_NAME before running the python script which .
+This way the path to the framemanager library can remain relative.
+
+Example usage:
+
+./PyDSA-Konqueror.sh
+
+or
+
+./PyDSA-Konqueror.sh pressure_profile.dsa

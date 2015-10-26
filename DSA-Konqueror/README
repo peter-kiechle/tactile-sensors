@@ -1,0 +1,12 @@
+Example usagee:
+
+./DSA-Konqueror ../pressure_profiles/grasps/teapot_handle.dsa 
+
+
+In order to run a classification task, the SVM has to be trained. (Machine dependent file format)
+
+cd ../python/classification
+python train_classifier.py
+
+Note: This might take some time (~10 minutes for the 856 pressure profiles)
+

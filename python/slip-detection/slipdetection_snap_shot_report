@@ -1,0 +1,99 @@
+----------------------------------
+Features:  Frame 13 
+----------------------------------
+Centroid x                 4.3356
+Centroid y                 5.5526
+Standard deviation x       0.6568
+Standard deviation y       0.5723
+Skewness x                -0.4817  Mass is concentrated on the right
+Skewness y                 0.4057  Mass is concentrated in the upper region
+Angle                      34.6718
+Major axis                 0.5266
+Minor axis                 0.2323
+Compactness (moments)      1.4680
+Compactness (contour)      0.4624
+Eccentricity               0.7476
+Eccentricity (squared)     0.8975
+Time: 0.0
+Translation: [0.0, 0.0]
+Rotation: [0.0]
+
+----------------------------------
+Features:  Frame 22 
+----------------------------------
+Centroid x                 4.0035
+Centroid y                 6.0940
+Standard deviation x       0.9184
+Standard deviation y       0.5693
+Skewness x                -0.8157  Mass is concentrated on the right
+Skewness y                 0.0096  Mass is vertically centered
+Angle                      15.4289
+Major axis                 0.8862
+Minor axis                 0.2813
+Compactness (moments)      1.6359
+Compactness (contour)      0.5305
+Eccentricity               0.8262
+Eccentricity (squared)     0.9483
+Time: 0.284
+Translation: [0.139281445222, 0.29019350076]
+Rotation: [-19.2428876871]
+
+----------------------------------
+Features:  Frame 41 
+----------------------------------
+Centroid x                 2.7857
+Centroid y                 7.0015
+Standard deviation x       1.6226
+Standard deviation y       0.5493
+Skewness x                -0.3480  Mass is concentrated on the right
+Skewness y                 0.0009  Mass is vertically centered
+Angle                      170.0242
+Major axis                 2.7073
+Minor axis                 0.2273
+Compactness (moments)      0.7593
+Compactness (contour)      0.5345
+Eccentricity               0.9571
+Eccentricity (squared)     0.9965
+Time: 0.889
+Translation: [1.38513134702, 2.7213557025]
+Rotation: [-44.6475877016]
+
+----------------------------------
+Features:  Frame 71 
+----------------------------------
+Centroid x                 3.2833
+Centroid y                 9.0867
+Standard deviation x       1.5914
+Standard deviation y       1.5890
+Skewness x                -0.6447  Mass is concentrated on the right
+Skewness y                 0.5179  Mass is concentrated in the upper region
+Angle                      135.0484
+Major axis                 4.8531
+Minor axis                 0.2045
+Compactness (moments)      0.5035
+Compactness (contour)      0.4225
+Eccentricity               0.9787
+Eccentricity (squared)     0.9991
+Time: 1.828
+Translation: [3.0972502702, 4.38397475065]
+Rotation: [-79.6233659284]
+
+----------------------------------
+Features:  Frame 86 
+----------------------------------
+Centroid x                 3.7177
+Centroid y                 10.8065
+Standard deviation x       0.7737
+Standard deviation y       1.3469
+Skewness x                 0.2277  Mass is concentrated on the left
+Skewness y                -0.9132  Mass is concentrated in the lower region
+Angle                      117.0167
+Major axis                 2.2411
+Minor axis                 0.1715
+Compactness (moments)      0.5937
+Compactness (contour)      0.2774
+Eccentricity               0.9610
+Eccentricity (squared)     0.9971
+Time: 2.298
+Translation: [6.02055038992, 3.89296595667]
+Rotation: [-97.6551265166]
